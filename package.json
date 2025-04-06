@@ -1,24 +1,24 @@
 {
   "name": "retryx",
   "version": "1.0.0",
-  "description": "A library that makes the retry logic modular and configurable",
-  "main": "index.js",
+  "description": "A tiny Promise-based retry utility with delay, backoff, and custom logic",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HK321/retryx.git"
+    "build": "tsc",
+    "test": "vitest"
   },
   "keywords": [
     "retry",
-    "javascript",
+    "backoff",
+    "promise",
+    "utility",
     "typescript"
   ],
-  "author": "Haris Khan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HK321/retryx/issues"
-  },
-  "homepage": "https://github.com/HK321/retryx#readme"
+  "author": "Haris Khan <kharis776@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.1"
+  }
 }
