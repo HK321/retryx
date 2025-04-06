@@ -63,3 +63,5 @@ Built in — no extra types needed.
 ## 🛡️ License
 
 MIT — build cool things with it!
+
+[![npm version](https://badge.fury.io/js/retryx.svg)](https://www.npmjs.com/package/@harisk/retryx)
