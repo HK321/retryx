@@ -1,5 +1,10 @@
 # 🔁 retryx
 
+[![npm version](https://img.shields.io/npm/v/@harisk/retryx)](https://www.npmjs.com/package/@harisk/retryx)
+[![npm downloads](https://img.shields.io/npm/dm/@harisk/retryx)](https://www.npmjs.com/package/@harisk/retryx)
+[![codecov](https://codecov.io/gh/HK321/retryx/graph/badge.svg?token=WBPNO8BGD3)](https://codecov.io/gh/HK321/retryx)
+[![license](https://img.shields.io/npm/l/@harisk/retryx)](./LICENSE)
+
 A tiny, flexible, Promise-based retry utility with support for delays, exponential backoff, per-attempt timeouts, and custom retry conditions.
 
 ## 🚀 Features
@@ -64,4 +69,3 @@ Built in — no extra types needed.
 
 MIT — build cool things with it!
 
-[![npm version](https://badge.fury.io/js/retryx.svg)](https://www.npmjs.com/package/@harisk/retryx)
