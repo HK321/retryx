@@ -1,0 +1,24 @@
+{
+  "name": "retryx",
+  "version": "1.0.0",
+  "description": "A library that makes the retry logic modular and configurable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HK321/retryx.git"
+  },
+  "keywords": [
+    "retry",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Haris Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HK321/retryx/issues"
+  },
+  "homepage": "https://github.com/HK321/retryx#readme"
+}
