@@ -1,6 +1,6 @@
 {
   "name": "@harisk/retryx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny Promise-based retry utility with delay, backoff, and custom logic",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
